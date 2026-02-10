@@ -40,25 +40,25 @@ Construir un modelo relacional y consultas analíticas en SQL Server (SSMS) que 
 
 ## 5. Requerimientos no funcionales
 
-SQL Server 2019+
+* SQL Server 2019+
 
-Código legible y documentado
+* Código legible y documentado
 
-Consultas optimizadas para análisis
+* Consultas optimizadas para análisis
 
-Ejecutable en SSMS
+* Ejecutable en SSMS
 
 ## 6. Entregables
 
-Scripts SQL de creación de tablas
+* Scripts SQL de creación de tablas
 
-Scripts de carga de datos
+* Scripts de carga de datos
 
-Consultas analíticas
+* Consultas analíticas
 
-README del proyecto
+* README del proyecto
 
 ## 7. Rol
 
-Freelance BI Developer / Data Engineer
-Responsable del levantamiento, modelado, desarrollo SQL y documentación.
+## Freelance BI Developer / Data Engineer
+## Responsable del levantamiento, modelado, desarrollo SQL y documentación.
