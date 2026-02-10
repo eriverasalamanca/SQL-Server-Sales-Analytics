@@ -34,7 +34,7 @@ de forma eficiente usando SQL Server.
 ---
 
 ## Estructura del proyecto
-sql-server-sales-analytics/
+sql-server-sales-analytics/<br>
 │<br>
 ├── sql/<br>
 │ ├── 01_create_database_and_tables.sql<br>
