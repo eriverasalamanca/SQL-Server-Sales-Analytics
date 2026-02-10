@@ -35,13 +35,13 @@ de forma eficiente usando SQL Server.
 
 ## Estructura del proyecto
 sql-server-sales-analytics/
-│
-├── sql/
-│ ├── 01_create_database_and_tables.sql
-│ ├── 02_insert_sample_data.sql
-│ └── 03_analytics_queries.sql
-│
-└── README.md
+│<br>
+├── sql/<br>
+│ ├── 01_create_database_and_tables.sql<br>
+│ ├── 02_insert_sample_data.sql<br>
+│ └── 03_analytics_queries.sql<br>
+│<br>
+└── README.md<br>
 
 
 ---
